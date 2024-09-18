@@ -7,7 +7,7 @@ export default function Home() {
         <NavBar />
       </header>
 
-      <section className=" h-[90svh]">
+      <section className=" h-[91.8svh]">
         <div className="absolute  inset-0 overflow-hidden opacity-80">
           <HeroSection/>
         </div>

@@ -13,7 +13,7 @@ const HeroSection = () => {
 
 
   return (
-    <ImagesSlider className="h-[40rem]" images={images} autoplay>
+    <ImagesSlider className="h-full" images={images} autoplay>
       <motion.div
         initial={{
           opacity: 0,
